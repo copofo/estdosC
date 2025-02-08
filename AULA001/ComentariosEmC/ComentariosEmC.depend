@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739015604 source:d:\0\projetos-git\estdosc\aula002\comentariosemc\main.c
+	<stdio.h>
+	<stdlib.h>
+

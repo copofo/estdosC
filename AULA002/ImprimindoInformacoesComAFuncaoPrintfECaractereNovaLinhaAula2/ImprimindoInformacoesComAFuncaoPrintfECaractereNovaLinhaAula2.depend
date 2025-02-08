@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739018716 source:d:\0\projetos-git\estdosc\aula002\imprimindoinformacoescomafuncaoprintfecaracterenovalinhaaula2\main.c
+	<stdio.h>
+	<stdlib.h>
+

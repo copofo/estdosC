@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739022038 source:d:\0\projetos-git\estdosc\aula004\comocriarvariaveiselernumerosinteiroscomafuncaoscanfaula4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1739024390 source:d:\0\projetos-git\estdosc\aula005\comocriarvariaveiselernumerosreaiscomafuncaoscanfaula5\main.c
+	<stdio.h>
+	<stdlib.h>
+
