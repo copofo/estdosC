@@ -2,26 +2,29 @@
 #include <stdlib.h>
 
 /*
-    Aula 19
+    Aula 21
 
-    Operador long para o tipo int
-    %li / $ld
+   tipo double
+   %lf
+
 */
 
 
 
 int main()
 {
-    printf("Aula 19");
+    printf("Aula 21");
     printf("\n--------------------------------------------------------------------------------------------\n");
 
-    long long int x = 300000000000000000000;
+    float x = 3.1415;
 
-    printf("Tamanho de x em bytes: %lld \n",x);
+    double y = 3.1415141514151415141514151415141514151415214151415141514151415;
 
-    x++;
+    printf("Tamanho de x em bytes: %d \n", sizeof x);
 
-    printf("Tamanho de x em bytes: %lli \n",x);
+    //x++;
+
+    printf("Tamanho de y em bytes: %d \n", sizeof y);
 
     printf("\n\n\n\n\n\n\n\n\n\n");
     printf("--------------------------------------------------------------------------------------------");
