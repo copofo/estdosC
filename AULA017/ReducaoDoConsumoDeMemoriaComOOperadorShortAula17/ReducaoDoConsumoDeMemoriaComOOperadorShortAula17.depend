@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739042625 source:d:\0\projetos-git\estdosc\aula017\reducaodoconsumodememoriacomooperadorshortaula17\main.c
+	<stdio.h>
+	<stdlib.h>
+
